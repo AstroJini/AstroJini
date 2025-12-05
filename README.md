@@ -47,19 +47,6 @@
 - Jira  
 - Notion  
 
----
-# 📷 Project Overview Images
-
-## 🔖 MKX Platform 로고
-![MKX Logo](https://placehold.co/600x200?text=MKX+LOGO)
-
-## 📊 MKX 기술 아키텍처 (구조도)
-![MKX Architecture](https://placehold.co/900x500?text=System+Architecture+Diagram)
-
-## 🖥 서비스 화면 예시
-![Demo Screen](https://placehold.co/900x500?text=Project+UI+Preview)
-
----
 
 # 🚀 Projects
 
@@ -104,9 +91,6 @@
 ---
 
 # 📈 Commit Activity (GitHub)
-
-> 실제 GitHub 활동과 연동되는 형태로 구성  
-> 아래 영역은 GitHub에 그대로 붙여넣으면 자동 반영됨
 
 ### 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourID&show_icons=true&theme=default)
