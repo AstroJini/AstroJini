@@ -1,6 +1,10 @@
-# 👋 윤세진 | Backend-oriented Full-stack Developer
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&fontSize=32&text=I%20focus%20on%20writing%20code&desc=that%20is%20explainable,%20not%20just%20executable.&descAlignY=62&descFontSize=32)
+
+</div>
 ---
+
 
 ## 🧑‍💼 Profile
 - **학력:** 유한대학교 졸업  
