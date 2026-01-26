@@ -2,12 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&fontSize=32&text=I%20focus%20on%20writing%20code&desc=that%20is%20explainable,%20not%20just%20executable.&descAlignY=62&descFontSize=32)
 
-  <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  </p>
 </div>
 
 ## About Me
