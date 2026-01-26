@@ -2,127 +2,82 @@
 
 ![header](https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&fontSize=32&text=I%20focus%20on%20writing%20code&desc=that%20is%20explainable,%20not%20just%20executable.&descAlignY=62&descFontSize=32)
 
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  </p>
 </div>
----
 
-
-## 🧑‍💼 Profile
-- **학력:** 유한대학교 졸업  
-- **경력:** 부루벨코리아 1년 7개월 근무(조기취업)  
-- **교육:** 한화 BEYOND 16기 수료  
-- **현재:** 백엔드 중심의 풀스택 개발자로 구직 활동 중  
-- **관심 분야:** 실시간 데이터 처리, 분산 시스템, 증권/핀테크 서비스 아키텍처  
-
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrojini&show_icons=true&locale=en&layout=compact" alt="astrojini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astrojini&show_icons=true&locale=en" alt="astrojini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astrojini&" alt="astrojini" /></p>
-
+## 🧑‍💼 About Me
+> **"비즈니스의 복잡함을 간결한 구조로 풀어내는 백엔드 개발자"**
+* **현재:** (주)에듀템 백엔드 개발자 (2025.12 ~ Present)
+* **교육:** 한화 BEYOND 16기 수료 (Full-stack 기반 금융 특화 과정)
+* **강점:** 실시간 데이터 처리 및 핀테크 아키텍처에 대한 깊은 관심과 빠른 기술 습득력
+* **경력:** 부루벨코리아 1년 7개월 근무 (조기취업 및 실무 프로세스 경험)
 
 ---
 
-## 🧩 Technical Competencies
+## 🚀 Experience & Projects
 
-### Core Backend
-- Java / Spring Boot  
-- JPA, Querydsl  
-- REST API 설계  
-- MySQL, Redis, InfluxDB  
-- Spring Cloud 기반 서비스 설계 경험  
+### 🏢 (주)에듀템 | 백엔드 개발자
+**2025.12 - Present**
+* **핵심 모듈 구현:** 입사 1개월 내 카카오 로그인, 코나아이 결제, 드림시큐리티 본인인증 등 **주요 외부 연동 REST API** 독자 구축.
+* **LMS 플랫폼 고도화:** 복잡한 계층형 권한 분리 및 대규모 CRUD 로직 최적화로 서비스 안정성 확보.
+* **성과:** 레거시 코드의 기술 부채를 해결하며 비즈니스 요구사항을 빠르게 기능으로 전환.
 
-### Frontend
-- React, Next.js  
-- TypeScript  
-- TailwindCSS  
-
-### Infrastructure & Operation
-- AWS (EC2, RDS, S3, Route53 등)  
-- Docker, Docker Compose  
-- Nginx Reverse Proxy  
-- CI/CD  
-
-### Collaboration & Tools
-- Git / GitHub  
-- Jira  
-- Notion  
-
-
-# 🚀 Projects
-
-## 🔥 MKX – 통합 증권 거래 플랫폼  
-> 증권사·기업·투자자를 잇는 실시간 거래 플랫폼  
-> Backend · Architecture · Frontend 일부 담당
-
-### 📌 주요 역할
-- InfluxDB를 활용한 캔들 데이터 저장/조회 구조 설계  
-- Redis Session & Cache 구조 설계  
-- MSA 아키텍쳐 기반 AWS 서비스 연동  
-- 투자자/기업/증권사별 인증·권한 설계  
-- 관리자/기업/증권사 UI 기능 구현 (React)  
-- 발표 자료 및 시연 영상 담당  
-
-### 🧪 사용 기술
-`Spring Boot`, `JPA`, `Querydsl`, `MySQL`, `Redis`,  
-`InfluxDB`, `React`, `AWS`, `Docker`, `Spring Cloud`
+### 🔥 MKX – 통합 증권 거래 플랫폼
+**한화 BEYOND 메인 프로젝트**
+* **데이터 아키텍처:** InfluxDB 기반 시계열 캔들 데이터 처리 및 Redis를 활용한 세션/캐시 설계.
+* **Infra:** AWS 환경에서 Spring Cloud 기반의 **MSA 아키텍처** 구축 및 Nginx 리버스 프록시 설정.
+* **담당:** Backend 아키텍처 설계, 보안/인증 인프라, 시연 및 기술 발표 총괄.
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Technical Stack
 
-### Backend
-- Java · Spring Boot · Spring Security  
-- JPA · Querydsl  
-- MySQL · Redis · InfluxDB  
-- REST API · Spring Cloud
+### 🟦 Backend & DB
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
+</p>
 
-### Frontend
-- React  
-- Next.js  
-- TypeScript  
-- TailwindCSS
-
-### DevOps / Infra
-- AWS (EC2/RDS/S3/Route53)  
-- Docker / Docker Compose  
-- Nginx Reverse Proxy  
-- CI/CD  
-
----
-
-# 📈 Commit Activity (GitHub)
-
-### 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourID&show_icons=true&theme=default)
-
-### 🟦 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourID&layout=compact)
-
-### 🟩 Contribution Graph
-![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=yourID&radius=16)
+### 🟨 Frontend & DevOps
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
 
 ---
 
-# 💡 Strengths
-- 문제를 단기 해결보다 **근본 원인 분석**을 우선  
-- 사용자 경험을 고려한 **요구사항 설계 능력**  
-- 명확한 일정 관리 & 협업 중심의 업무 진행 방식  
-- 새로운 기술에 대한 이해·적용 속도 빠름  
-- 구조적 사고 기반의 개발 습관  
+## 📈 Analysis
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=astrojini&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrojini&layout=compact&theme=radical" />
+</p>
 
 ---
 
-# 🎯 Current Goal
-- Spring Cloud / Kafka 기반 MSA 심화  
-- 실시간 데이터 파이프라인 구축  
-- 증권·핀테크 도메인 기술 전문성 강화  
+## 💡 Engineering Mindset
+* **Root Cause Analysis:** 현상 수정보다 문제의 근본 원인을 파악하여 재발 방지에 집중합니다.
+* **Scalability:** 현재의 기능 구현을 넘어, 서비스 확장 시 발생할 병목 현상을 미리 고민합니다.
+* **User-Centric:** 개발 편의성보다 실제 사용자가 겪을 경험과 비즈니스 가치를 우선합니다.
 
 ---
 
-# 📬 Contact
-- **Email:** pentum99@gmail.com  
-- **GitHub:** https://github.com/AstroJini
+## 🎯 Contact & Links
+* **Email:** [pentum99@gmail.com](mailto:pentum99@gmail.com)
+* **Blog:** [기술 블로그 운영 시 링크 추가]
+* **GitHub:** [github.com/AstroJini](https://github.com/AstroJini)
+
+<div align="right">
+  Last Updated: 2026.01.26
+</div>
