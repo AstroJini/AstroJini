@@ -43,6 +43,11 @@
       <h4>Backend &amp; Data</h4>
       <img src="https://img.shields.io/badge/Java_17-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java 17">
       <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot 3"><br>
+      <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="Spring MVC">
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security"><br>
+      <img src="https://img.shields.io/badge/eGovFrame_5.0-315A83?style=flat-square" alt="eGovFrame 5.0">
+      <img src="https://img.shields.io/badge/MyBatis-303030?style=flat-square" alt="MyBatis">
+      <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&amp;logo=hibernate&amp;logoColor=white" alt="JPA and Hibernate"><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB"><br>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis">
@@ -52,8 +57,10 @@
       <h4>Messaging &amp; Integration</h4>
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka">
       <img src="https://img.shields.io/badge/WebSocket%20%2F%20STOMP-303030?style=flat-square" alt="WebSocket and STOMP"><br>
+      <img src="https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis Pub/Sub">
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&amp;logo=lua&amp;logoColor=white" alt="Lua">
-      <img src="https://img.shields.io/badge/OAuth2%20%2F%20JWT-303030?style=flat-square" alt="OAuth2 and JWT">
+      <img src="https://img.shields.io/badge/OAuth2%20%2F%20OIDC-303030?style=flat-square" alt="OAuth2 and OIDC"><br>
+      <img src="https://img.shields.io/badge/JWT-303030?style=flat-square" alt="JWT">
     </td>
   </tr>
   <tr>
@@ -69,19 +76,12 @@
       <h4>Tools</h4>
       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&amp;logo=gradle&amp;logoColor=white" alt="Gradle">
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&amp;logo=apachemaven&amp;logoColor=white" alt="Maven"><br>
+      <img src="https://img.shields.io/badge/Log4j2-D22128?style=flat-square&amp;logo=apache&amp;logoColor=white" alt="Log4j2"><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
     </td>
   </tr>
 </table>
-</div>
-
-## Analysis
-
-<div align="center">
-
-[![GitHub 기여 그래프](https://ghchart.rshah.org/AstroJini)](https://github.com/AstroJini?tab=overview)
-
 </div>
 
 ## Background
