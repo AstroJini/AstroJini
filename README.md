@@ -78,7 +78,11 @@
 
 ## Analysis
 
-[GitHub 기여 활동 보기](https://github.com/AstroJini?tab=overview)
+<div align="center">
+
+[![GitHub 기여 그래프](https://ghchart.rshah.org/AstroJini)](https://github.com/AstroJini?tab=overview)
+
+</div>
 
 ## Background
 
