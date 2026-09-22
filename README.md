@@ -1,129 +1,54 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&fontSize=32&text=I%20focus%20on%20writing%20code&desc=that%20is%20explainable,%20not%20just%20executable.&descAlignY=62&descFontSize=32)
+# 윤세진 | Backend Developer
+
+복잡한 서비스 흐름을 안정적인 API와 데이터 구조로 옮기고, 운영 중 발견한 문제를 끝까지 추적합니다.
+
+[이력서](https://www.figma.com/design/Vn2sDRJ7DA61iHEFLxnkYZ/%EC%9D%B4%EB%A0%A5%EC%84%9C) · [이메일](mailto:pentum99@gmail.com)
 
 </div>
 
 ## About Me
-> **"동작하는 코드가 아닌, 이유가 분명한 코드를 작성합니다."**
-* **현재:** (주)에듀템 백엔드 개발자 (2025.12 ~ Present)
-* **교육:** 한화 BEYOND 16기 수료 (Full-stack 기반 개발자 양성과정)
-* **강점:** 실시간 데이터 처리 및 핀테크 아키텍처에 대한 깊은 관심과 빠른 기술 습득력
-* **경력:** 부루벨코리아 1년 7개월 근무 (조기취업 및 실무 프로세스 경험)
 
----
+- 2025년 12월부터 **에듀템 개발팀**에서 결제·인증·학습·음성 서비스의 백엔드를 개발하고 있습니다.
+- 모의 증권 거래 플랫폼 **MKX**에서 Kafka 체결 이벤트, Redis 기반 호가창, InfluxDB OHLCV 차트와 보조지표를 구현했습니다.
+- 문제를 재현하고 데이터 흐름을 확인한 뒤, 변경 전후를 측정하며 개선하는 방식을 선호합니다.
 
-## Experience & Projects
+## Experience
 
-### (주)에듀템 | 풀스택 개발자
-**2025.12 - Present**
-* **핵심 모듈 구현:** 입사 1개월 내 카카오 로그인, 코나아이 결제, 드림시큐리티 본인인증 등 **주요 외부 연동 REST API** 독자 구축.
-* **LMS 플랫폼 고도화:** 복잡한 계층형 권한 분리 및 대규모 CRUD 로직 최적화로 서비스 안정성 확보.
-* **성과:** 레거시 코드의 기술 부채를 해결하며 비즈니스 요구사항을 빠르게 기능으로 전환.
+### 에듀템 | 개발팀 · 사원 (2025.12.15 – 현재)
 
-### 한화 BEYOND 16기 | 수료
+- **결제·인증:** 아이캔톡 학습 플랫폼에서 KONA 지역화폐·Toss 결제와 공무원증·LDAP·MFA 인증을 연동했습니다.
+- **결제 조회 개선:** 분산된 결제 내역의 공통 정보를 `purchase_unified` 테이블로 모으고, 상세 정보는 요청 시 조회하도록 분리했습니다. 조회 응답 시간(99% 기준)을 **209ms → 173ms(17.2% 단축)**로 개선했습니다.
+- **교육 서비스:** EBS 수학 진단 LMS의 교사 대시보드·결손 개념 분석, 예문사 LMS의 조직별 권한·학습 통계 등을 구현했습니다.
+- **음성·데이터 처리:** STT/TTS API와 HTTP 연결 문제를 개선하고, ThinkingData 이벤트의 큐잉·배치 전송 및 학습 사용량 집계 흐름을 정비했습니다.
 
-**한화 BEYOND 프로젝트 | MKX**
-* **데이터 아키텍처:** InfluxDB 기반 시계열 캔들 데이터 처리 및 Redis를 활용한 세션/캐시 설계.
-* **Infra:** AWS 환경에서 Spring Cloud 기반의 **MSA 아키텍처** 구축.
-* **담당:** kafka 이벤트 컨슘 처리, 차트 반영, 호가 담당
+### MKX 디지털 증권 거래 플랫폼 | 한화 BEYOND 16기 팀 프로젝트
 
+> [백엔드 저장소](https://github.com/beyond-sw-camp/be16-fin-3team-NylonMusk-BE)
 
-**한화 BEYOND 프로젝트 | SmartFridge**
-* **데이터 아키텍처:** 
-* **Infra:** 
-* **담당:** 
+- Kafka 체결 이벤트를 받아 시계열 데이터로 집계하고, **InfluxDB 기반 OHLCV 차트와 보조지표 30종**을 구현했습니다.
+- **Redis 정렬 집합(ZSET)과 Lua 스크립트**로 가격·시간 우선순위, 부분 체결 잔량, 호가 총량을 처리했습니다.
+- 진행 중인 캔들은 Redis에서 갱신하고, 구간 종료 후에는 체결 데이터를 기준으로 값을 다시 계산해 빠른 화면 반영과 데이터 정확성을 함께 고려했습니다.
+- WebSocket/STOMP로 실시간 마켓데이터를 전달했습니다.
 
----
 ## Technical Stack
 
-<div align="center">
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center"><h4>Backend & Data</h4></div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=OpenJDK&logoColor=white">
-        <img src="https://img.shields.io/badge/SpringBoot3-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/JPA/Hibernate-6DB33F?style=flat-square&logo=Spring">
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-web-tokens">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB"><br>
-        <img src="https://img.shields.io/badge/Redis_Cluster/Shard-DC382D?style=flat-square&logo=redis">
-        <img src="https://img.shields.io/badge/Lua_Script-2C2D72?style=flat-square&logo=lua">
-        <img src="https://img.shields.io/badge/Kafka/Debezium-231F20?style=flat-square&logo=apachekafka"><br>
-        <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb">
-        <img src="https://img.shields.io/badge/STOMP-000000?style=flat-square">
-        <img src="https://img.shields.io/badge/SSE-000000?style=flat-square">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center"><h4>Frontend & Integration</h4></div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
-        <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js"><br>
-        <img src="https://img.shields.io/badge/TradingView_Chart-000000?style=flat-square">
-        <img src="https://img.shields.io/badge/OpenDART-0054A6?style=flat-square">
-        <img src="https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai"><br>
-        <img src="https://img.shields.io/badge/OCR/CAPTCHA-000000?style=flat-square">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center"><h4>Infra & DevOps</h4></div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/EKS/ECR-FF9900?style=flat-square&logo=amazonEKS">
-        <img src="https://img.shields.io/badge/EC2/VPC-FF9900?style=flat-square&logo=amazonec2">
-        <img src="https://img.shields.io/badge/S3/CloudFront-FF9900?style=flat-square&logo=amazons3"><br>
-        <img src="https://img.shields.io/badge/RDS/ElastiCache-527FFF?style=flat-square&logo=amazonrds">
-        <img src="https://img.shields.io/badge/IAM/ACM-232F3E?style=flat-square&logo=awsiam">
-        <img src="https://img.shields.io/badge/Route53-8C4FFF?style=flat-square&logo=amazonroute53"><br>
-        <img src="https://img.shields.io/badge/Docker/Compose-2496ED?style=flat-square&logo=docker">
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes">
-        <img src="https://img.shields.io/badge/GActions-2088FF?style=flat-square&logo=githubactions">
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center"><h4>Tools & Collaboration</h4></div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman"><br>
-        <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma">
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
+| 영역 | 사용 기술 |
+| --- | --- |
+| Backend | Java 17, Spring Boot 3, Spring MVC, Spring Security, eGovFrame 5.0 |
+| Data | MyBatis, JPA/Hibernate, MySQL, MariaDB, Redis, InfluxDB |
+| Messaging & Integration | Kafka, WebSocket, STOMP, Redis Pub/Sub, Lua, OAuth2/OIDC, JWT |
+| Cloud & Tools | AWS S3, CloudFront, Docker, Kubernetes, GitHub Actions, Gradle, Maven, Log4j2 |
 
----
+## Background
 
-## Analysis
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=astrojini&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrojini&layout=compact&theme=radical&hide=vue" />
-</p>
+- 고려사이버대학교 컴퓨터공학과 재학 (2026.08 – 현재)
+- 유한대학교 글로벌 비즈니스 경영학과 일본어전공 졸업
+- 한화 BEYOND 16기 수료 · 프로젝트 1위
+- 부루벨코리아 FENDI BTQ Sales Associate (2023.06 – 2025.01)
 
----
+## Contact
 
-## Engineering Mindset
-* **Root Cause Analysis:** 현상 수정보다 문제의 근본 원인을 파악하여 재발 방지에 집중합니다.
-* **Scalability:** 현재의 기능 구현을 넘어, 서비스 확장 시 발생할 병목 현상을 미리 고민합니다.
-* **User-Centric:** 개발 편의성보다 실제 사용자가 겪을 경험과 비즈니스 가치를 우선합니다.
-
----
-
-## Contact & Links
-* **Email:** [pentum99@gmail.com](mailto:pentum99@gmail.com)
-* **Blog:** [기술 블로그 운영 시 링크 추가]
-* **GitHub:** [github.com/AstroJini](https://github.com/AstroJini)
-
-<div align="right">
-  Last Updated: 2026.01.26
-</div>
+- Email: [pentum99@gmail.com](mailto:pentum99@gmail.com)
+- GitHub: [AstroJini](https://github.com/AstroJini)
