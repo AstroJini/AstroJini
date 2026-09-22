@@ -1,5 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&fontSize=32&text=I%20focus%20on%20writing%20code&desc=that%20is%20explainable,%20not%20just%20executable.&descAlignY=62&descFontSize=32)
+
 # 윤세진 | Backend Developer
 
 복잡한 서비스 흐름을 안정적인 API와 데이터 구조로 옮기고, 운영 중 발견한 문제를 끝까지 추적합니다.
@@ -34,12 +36,49 @@
 
 ## Technical Stack
 
-| 영역 | 사용 기술 |
-| --- | --- |
-| Backend | Java 17, Spring Boot 3, Spring MVC, Spring Security, eGovFrame 5.0 |
-| Data | MyBatis, JPA/Hibernate, MySQL, MariaDB, Redis, InfluxDB |
-| Messaging & Integration | Kafka, WebSocket, STOMP, Redis Pub/Sub, Lua, OAuth2/OIDC, JWT |
-| Cloud & Tools | AWS S3, CloudFront, Docker, Kubernetes, GitHub Actions, Gradle, Maven, Log4j2 |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h4>Backend &amp; Data</h4>
+      <img src="https://img.shields.io/badge/Java_17-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java 17">
+      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot 3"><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB"><br>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&amp;logo=influxdb&amp;logoColor=white" alt="InfluxDB">
+    </td>
+    <td align="center" valign="top">
+      <h4>Messaging &amp; Integration</h4>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka">
+      <img src="https://img.shields.io/badge/WebSocket%20%2F%20STOMP-303030?style=flat-square" alt="WebSocket and STOMP"><br>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&amp;logo=lua&amp;logoColor=white" alt="Lua">
+      <img src="https://img.shields.io/badge/OAuth2%20%2F%20JWT-303030?style=flat-square" alt="OAuth2 and JWT">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h4>Cloud &amp; DevOps</h4>
+      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&amp;logo=amazons3&amp;logoColor=white" alt="AWS S3">
+      <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" alt="CloudFront"><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
+    </td>
+    <td align="center" valign="top">
+      <h4>Tools</h4>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&amp;logo=gradle&amp;logoColor=white" alt="Gradle">
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&amp;logo=apachemaven&amp;logoColor=white" alt="Maven"><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
+    </td>
+  </tr>
+</table>
+</div>
+
+## Analysis
+
+[GitHub 기여 활동 보기](https://github.com/AstroJini?tab=overview)
 
 ## Background
 
